@@ -1,14 +1,1 @@
-[
-    {
-        "name": "sample",
-        "description": "これはサンプル",
-        "logo": "/icons/voicevox.png",
-        "tags": ["YouTube"]
-    },
-    {
-        "name": "sample",
-        "description": "これはサンプル",
-        "logo": "/icons/voicevox.png",
-        "tags": ["YouTube"]
-    }
-]
+[]
