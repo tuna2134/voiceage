@@ -20,7 +20,7 @@
                 </div>
                 <div class="my-1.5">
                     <a href={item.url}>
-                        <p class="text-3xl text-center font-semibold">{item.name}</p>
+                        <p class="text-2xl text-center font-semibold">{item.name}</p>
                     </a>
                 </div>
                 <div class="my-1.5 flex justify-center">

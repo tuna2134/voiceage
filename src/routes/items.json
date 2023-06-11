@@ -9,7 +9,7 @@
     {
         "name": "VOICEVOX読み上げBOT",
         "description": "Discord向けのVOICEVOX読み上げBOT",
-        "tags": "Discord Bot",
+        "tags": ["Discord Bot"],
         "logo": "https://tts.kuroneko6423.com/images/VOICEVOX.webp",
         "url": "https://tts.kuroneko6423.com/"
     }
