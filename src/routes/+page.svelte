@@ -19,7 +19,7 @@
                     <img class="w-48 h-48 flex justify-center" src={item.logo} alt="logo" />
                 </div>
                 <div class="my-1.5">
-                    <a href={item.url}>
+                    <a href={item.url} class="hover:text-[#A5D4AD]">
                         <p class="text-2xl text-center font-semibold">{item.name}</p>
                     </a>
                 </div>
