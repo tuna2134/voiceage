@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "name": "voicevox-client",
+        "description": "voicevox engine用のAPIラッパー",
+        "tags": ["Programing"],
+        "logo": "https://raw.githubusercontent.com/voicevox-client/guide/master/static/img/vvclient-languages.png"
+    }
+]

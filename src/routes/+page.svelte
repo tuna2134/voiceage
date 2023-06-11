@@ -11,7 +11,7 @@
     </div>
 </div>
 <div class="bg-[#e3ffe8] min-h-screen">
-    <div class="w-full max-w-6xl mx-auto">
+    <div class="w-full max-w-6xl mx-auto py-4">
         <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
             {#each items as item}
             <div class="mx-2 bg-white px-2 py-2 rounded">
