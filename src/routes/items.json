@@ -12,5 +12,12 @@
         "tags": ["Discord Bot"],
         "logo": "https://tts.kuroneko6423.com/images/VOICEVOX.webp",
         "url": "https://tts.kuroneko6423.com/"
+    },
+    {
+        "name": "RT",
+        "description": "多機能の中に読み上げ機能があります",
+        "tags": ["Discord Bot"],
+        "logo": "https://raw.githubusercontent.com/rext-dev/logos/main/rt/png/rt.png",
+        "url": "https://rt.rext.dev"
     }
 ]
