@@ -26,10 +26,10 @@
             </nav>
         </div>
     </header>
-    <main class="py-4 min-h-screen">
+    <main class="pt-4 min-h-screen">
         <slot />
     </main>
-    <footer class="mt-auto w-full flex border-t">
+    <footer class="w-full flex border-t">
         <div class="w-full flex items-center max-w-5xl mx-auto h-24 px-2">
             <p class="flex text-2xl font-bold">VOICEAGE</p>
             <p class="ml-auto">&copy; 2023 tuna2134</p>
