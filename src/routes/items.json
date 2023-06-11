@@ -2,7 +2,7 @@
     {
         "name": "voicevox-client",
         "description": "voicevox engine用のAPIラッパー",
-        "tags": ["Programing"],
+        "tags": ["Programming"],
         "logo": "https://raw.githubusercontent.com/voicevox-client/guide/master/static/img/vvclient-languages.png",
         "url": "https://guide.vclient.tuna2134.dev"
     },
