@@ -26,7 +26,7 @@
             </nav>
         </div>
     </header>
-    <main class="py-4 min-h-screen bg-[#e3ffe8]">
+    <main class="py-4 min-h-screen">
         <slot />
     </main>
     <footer class="mt-auto w-full flex border-t">
