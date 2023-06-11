@@ -19,7 +19,9 @@
                     <img class="w-48 h-48 flex justify-center" src={item.logo} alt="logo" />
                 </div>
                 <div class="my-1.5">
-                    <p class="text-3xl text-center font-semibold">{item.name}</p>
+                    <a href={item.url}>
+                        <p class="text-3xl text-center font-semibold">{item.name}</p>
+                    </a>
                 </div>
                 <div class="my-1.5 flex justify-center">
                     {#each item.tags as tag}

@@ -3,6 +3,14 @@
         "name": "voicevox-client",
         "description": "voicevox engine用のAPIラッパー",
         "tags": ["Programing"],
-        "logo": "https://raw.githubusercontent.com/voicevox-client/guide/master/static/img/vvclient-languages.png"
+        "logo": "https://raw.githubusercontent.com/voicevox-client/guide/master/static/img/vvclient-languages.png",
+        "url": "https://guide.vclient.tuna2134.dev"
+    },
+    {
+        "name": "VOICEVOX読み上げBOT",
+        "description": "Discord向けのVOICEVOX読み上げBOT",
+        "tags": "Discord Bot",
+        "logo": "https://tts.kuroneko6423.com/images/VOICEVOX.webp",
+        "url": "https://tts.kuroneko6423.com/"
     }
 ]
